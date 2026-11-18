@@ -48,6 +48,7 @@ I am a passionate **Frontend Developer** dedicated to building responsive, pixel
 | [**Road-Map**](https://github.com/Sage-NBA/Road-Map) | Interactive milestone tracker with timeline view, modal controls, and progress analytics. | `React` `TypeScript` `Tailwind CSS` | 🟢 Active |
 | [**Light-and-Dark-mode**](https://github.com/Sage-NBA/Light-and-Dark-mode) | Sleek multi-page SaaS application featuring fluid light & dark theme switching and routing. | `React` `TypeScript` `React Router` | 🟢 Active |
 | [**Camera-site**](https://github.com/Sage-NBA/Camera-site) | Real-time CCTV and security camera monitoring dashboard with live status filtering. | `React` `TypeScript` `Tailwind CSS` | 🟢 Active |
+| [**Music-Repo**](https://github.com/Sage-NBA/Music-Repo) | SoundWave: Modern music player & library streaming app with iTunes API track discovery. | `React` `TypeScript` `Tailwind CSS` | 🟢 Active |
 
 ---
 
